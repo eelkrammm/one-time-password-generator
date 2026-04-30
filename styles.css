@@ -1,0 +1,11 @@
+
+.container{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  flex-direction: column;
+  background-color: #f8fafc;
+  color: #111827;
+  font-family: arial; 
+  
+}
